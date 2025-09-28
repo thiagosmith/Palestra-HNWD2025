@@ -1,4 +1,4 @@
-#"Técnicas e Ferramentas Avançadas de Red Teaming: Explorando com uso de Exploits e Simulando Ameaças Reais"
+## "Técnicas e Ferramentas Avançadas de Red Teaming: Explorando com uso de Exploits e Simulando Ameaças Reais"
 Tópicos:
 Exploitation de Vulnerabilidades Zero-Day: Explicando o processo de descoberta e exploração de falhas desconhecidas pelo vendor em sistemas.
 Uso de Ferramentas Automatizadas: Como frameworks como Metasploit é utilizado para simular ataques sofisticados utilizando informações obtidas por ferramentas de coletas de informações on-line.
