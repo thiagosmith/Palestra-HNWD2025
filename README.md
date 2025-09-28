@@ -209,9 +209,9 @@ Essa técnica é frequentemente usada por grupos APT para manter acesso persiste
 Com base no MITRE ATT&CK, as simulações de APT seguem um modelo estruturado para emular adversários reais. Ferramentas como CALDERA e Metta ajudam na replicação de comportamentos avançados, fortalecendo defesas contra possíveis ataques.
 
 Links úteis:
-Caldera: https://caldera.mitre.org/
-Metta: https://github.com/uber-common/metta
-https://medium.com/uber-security-privacy/uber-security-metta-open-source-a8a49613b4a
+  Caldera: https://caldera.mitre.org/
+  Metta: https://github.com/uber-common/metta
+  https://medium.com/uber-security-privacy/uber-security-metta-open-source-a8a49613b4a
 
 ## Conclusão
 Técnicas e ferramentas avançadas de Red Teaming desempenham um papel crucial na proteção contra ameaças cibernéticas sofisticadas. Ao explorar vulnerabilidades zero-day, utilizar frameworks automatizados como Metasploit e Nuclei, implementar movimentação lateral e escalada de privilégios, adotar técnicas anti-forenses e replicar táticas de grupos APT, é possível conduzir simulações robustas que fortalecem as defesas. Essas práticas não apenas identificam vulnerabilidades antes que possam ser exploradas, mas também preparam as equipes de segurança para lidar com cenários reais. Red Teaming avançado representa uma abordagem proativa, estratégica e essencial para garantir a resiliência dos sistemas em um ambiente digital cada vez mais desafiador e dinâmico.
